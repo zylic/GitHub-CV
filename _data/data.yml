@@ -37,6 +37,9 @@ sidebar:
         - item: Gaming
           link:
 
+        - item: Music
+          link:
+          
 career-profile:
     title: Career Profile
     summary: |
@@ -45,8 +48,8 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Information and communication technologies
-        university: Ammattikoulu Gradia Viitaniemi
+      - degree: Information and communication technologies / Programming
+        university: Ammattiopisto Gradia Jyväskylä | Viitaniemi
         time: 2022 - 2025
         details: |
           Lots of learning with different coding languages and programs.
@@ -78,8 +81,8 @@ projects:
         tagline: "A CoD Zombies type game created in Windows Forms. I've since dropped the project due to limitations with Windows Forms and how laggy it gets when having a ton of moving objects. The game is still playable with 1 map, working perks, working power ups, different zombie types, weapons and etc"
 
       - title: Web language learning games
-        link: "gamesforchildren.online/labMenu/allgames"
-        tagline: "I've been a part of a few of the games on this website. Games have been created on JavaScript, HTML and CSS"
+        link: "https://github.com/zylic/MosaiikkiPelit"
+        tagline: "Some of the games I created during my time at Mosaiikki Oy"
 
 skills:
     title: Skills &amp; Proficiency
