@@ -5,7 +5,7 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Tomas Räsälä
@@ -40,6 +40,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
+      My name is Tomas Räsälä and I'm very passionate about Video Games. I love creating them and creating content about them.
       
 education:
     title: Education
@@ -48,6 +49,9 @@ education:
         university: Ammattikoulu Gradia Viitaniemi
         time: 2022 - 2025
         details: |
+          Lots of learning with different coding languages and programs.
+          I've learnt the use of Excel, Python, CSS, HTML, JavaScript, jQuery, PHP, C# and other languages/programs
+          at this school
 
 experiences:
     title: Experiences
