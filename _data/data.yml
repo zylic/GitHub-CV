@@ -5,7 +5,7 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Tomas Räsälä
@@ -13,7 +13,6 @@ sidebar:
 
     # Sidebar links
     email: tomasrasala06@gmail.com
-    timezone: Finland/GMT +3
     github: zylic
 
     languages:
@@ -24,37 +23,15 @@ sidebar:
 
         - idiom: English
           level: Fluent
-
-    interests:
-      title: Interests
-      info:
-        - item: Game Creation
-          link:
-
-        - item: Content Creation
-          link:
-
-        - item: Gaming
-          link:
-
-        - item: Music
-          link:
-          
-career-profile:
-    title: Career Profile
-    summary: |
-      My name is Tomas Räsälä and I'm very passionate about Video Games. I love creating them and creating content about them.
       
 education:
     title: Education
     info:
-      - degree: Information and communication technologies / Programming
+      - degree: Information and communication technologies
         university: Ammattiopisto Gradia Jyväskylä | Viitaniemi
         time: 2022 - 2025
         details: |
-          Lots of learning with different coding languages and programs.
-          I've learnt the use of Excel, Python, CSS, HTML, JavaScript, jQuery, PHP, C# and other languages/programs
-          at this school
+          Coursework: Graphical user interfaces, Basics of testing, Object programming
 
 experiences:
     title: Experiences
@@ -73,8 +50,6 @@ experiences:
           
 projects:
     title: Projects
-    intro: >
-      Some of my projects I've created or been a part of
     assignments:
       - title: Windows Forms Zombie Game (Deprecated)
         link: "github.com/zylic/Zombie-Shooter"
