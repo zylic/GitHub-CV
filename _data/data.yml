@@ -24,15 +24,6 @@ sidebar:
         - idiom: English
           level: Fluent
       
-education:
-    title: Education
-    info:
-      - degree: Information and communication technologies
-        university: Ammattiopisto Gradia Jyväskylä | Viitaniemi
-        time: 2022 - 2025
-        details: |
-          Coursework: Graphical user interfaces, Basics of testing, Object programming
-
 experiences:
     title: Experiences
     info:
@@ -58,6 +49,15 @@ projects:
       - title: Web language learning games
         link: "https://github.com/zylic/MosaiikkiPelit"
         tagline: "Some of the games I created during my time at Mosaiikki Oy"
+
+education:
+    title: Education
+    info:
+      - degree: Information and communication technologies
+        university: Ammattiopisto Gradia Jyväskylä | Viitaniemi
+        time: 2022 - 2025
+        details: |
+          Coursework: Graphical user interfaces, Basics of testing, Object programming
 
 skills:
     title: Skills &amp; Proficiency
