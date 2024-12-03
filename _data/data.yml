@@ -37,13 +37,14 @@ experiences:
         time: 2024-2024
         company: Mosaiikki Oy
         details: |
-          Created web language learning games for all ages in JavaScript, HTML and CSS. 
+          Created web language learning games for all ages in JavaScript, HTML, CSS, React and TypeScript.
+          Worked there through 07.03.2024-31.05.2024 and 06.08.2024-27.09.2024
           
 projects:
     title: Projects
     assignments:
       - title: Windows Forms Zombie Game (Deprecated)
-        link: "github.com/zylic/Zombie-Shooter"
+        link: "https://github.com/zylic/Zombie-Shooter"
         tagline: "A CoD Zombies type game created in Windows Forms. I've since dropped the project due to limitations with Windows Forms and how laggy it gets when having a ton of moving objects. The game is still playable with 1 map, working perks, working power ups, different zombie types, weapons and etc"
 
       - title: Web language learning games
@@ -63,25 +64,31 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Javascript
+      - name: C#
         level: 80%
 
-      - name: HTML5 & CSS
+      - name: HTML5 & CSS + Javascript
         level: 70%
 
-      - name: C#
-        level: 70%
-
-      - name: Photopea
-        level: 60%
+      - name: MySQL
+        level: 50%
 
       - name: Python
-        level: 55%
+        level: 50%
+
+      - name: Photopea/Photoshop
+        level: 40%
 
       - name: PHP
         level: 10%
 
       - name: jQuery
+        level: 10%
+
+      - name: React
+        level: 10%
+
+      - name: TypeScript
         level: 10%
 
 footer: >
